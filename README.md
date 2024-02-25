@@ -1,5 +1,5 @@
 # heightfields
-This program implements all base requirements with no extra credit. Below is a list of keybinds to utilize the functionality of the program. Scale for modes 1-3 was calculated through trial and error of what looked best overall. Similarly LookAt() was found through trial and error for the overall starting view. To run call 'make' followed by './hw1 heightmap/<image of choice>' in the hw1 directory.
+Below is a list of keybinds to utilize the functionality of the program. Scale for modes 1-3 was calculated through trial and error of what looked best overall. Similarly LookAt() was found through trial and error for the overall starting view. To run call 'make' followed by './hw1 heightmap/<image of choice>' in the hw1 directory.
 
 Keybinds:
 ‘1’: mode 1, point rendering
